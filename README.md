@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya Lade
 
-<!--
-**adityalade22/adityalade22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate developer from around the world
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **A Web Development Project**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **Web Development**
+
+- 💬 Ask me about **Web development, Python**
+
+- 📫 How to reach me **adityalade22@gmail.com**
+
+- ⚡ Fun fact **I’m passionate about coding and building real-world solutions using technology**
+
+<p align="left">
+<a href="https://github.com/adityalade22">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://linkedin.com/in/aditya-lade22">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/aditya_lade22">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left" style="white-space: nowrap;">
+<a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=c" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=py" width="40" style="display:inline-block;" /></a>
+</p>
