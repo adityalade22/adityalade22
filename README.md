@@ -2,15 +2,15 @@
 
 ### A passionate developer from around the world
 
-- 🔭 I'm currently working on **A Web Development Project**
+- I'm currently working on **A Web Development Project**
 
-- 🌱 I'm currently learning **Web Development**
+- I'm currently learning **Web Development**
 
-- 💬 Ask me about **Web development, Python**
+- Ask me about **Web development, Python**
 
-- 📫 How to reach me **adityalade22@gmail.com**
+- How to reach me **adityalade22@gmail.com**
 
-- ⚡ Fun fact **I’m passionate about coding and building real-world solutions using technology**
+- Fun fact **I’m passionate about coding and building real-world solutions using technology**
 
 <p align="left">
 <a href="https://github.com/adityalade22">
