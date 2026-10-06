@@ -1,45 +1,37 @@
 # Hi 👋, I'm Aditya Lade
 
-### Aspiring Web Developer | Learning by Building 🚀
+### A passionate developer from around the world
 
-I'm a web development learner who enjoys turning ideas into working projects. I'm focused on building a strong foundation in full-stack JavaScript, one project at a time.
+- 🔭 I'm currently working on **A Web Development Project**
 
----
+- 🌱 I'm currently learning **Web Development**
 
-## 🔭 What I'm Up To
+- 💬 Ask me about **Web development, Python**
+  
+- 📫 How to reach me **adityalade22@gmail.com**
 
-- 🛠️ Currently working on a **web development project**
-- 📚 Learning **full-stack web development**
-- 🐍 Exploring **Python** alongside JavaScript
-- 💡 Passionate about coding and building real-world solutions with technology
+- ⚡ Fun fact **I’m passionate about coding and building real-world solutions using technology**
 
-## 🧰 Tech Stack
+<p align="left">
+<a href="https://github.com/adityalade22">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://linkedin.com/in/aditya-lade22">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/aditya_lade22">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
-## 💬 Let's Connect
-
-- 📫 **Email:** [adityalade22@gmail.com](mailto:adityalade22@gmail.com)
-- 🌱 **Ask me about:** Web development and Python
-- 🤝 Open to learning, feedback, and beginner-friendly collaboration
-
----
-
-⭐ *Always learning, always building.*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left" style="white-space: nowrap;">
+<a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=c" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" style="display:inline-block; margin-right:8px;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=py" width="40" style="display:inline-block;" /></a>
+</p>
